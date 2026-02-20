@@ -1,14 +1,14 @@
 # -Data-Professional-Survey-Analysis-Power-BI-Dashboard
 This Power BI project analyses global survey responses from data professionals to uncover trends in salaries, skills, job satisfaction, and career challenges.
 
-Project Overview:
+# Project Overview:
 This project visualizes insights from a real-world survey of data professionals across multiple countries and job roles. Using Power BI, I transformed raw survey data into an interactive dashboard that reveals patterns in compensation, programming language preferences, work-life balance, and the barriers to entering the data field.
 The analysis answers key questions like: 
 Which data roles earn the most?
 What programming languages dominate? 
 How satisfied are data professionals with their work-life balance and salaries?
 
-Business Questions Answered:
+# Business Questions Answered:
 What is the average salary across different data roles?
 Which countries have the highest participation in the data profession?
 What are the most popular programming languages among data professionals?
