@@ -62,5 +62,16 @@ Young workforce — The average age of data professionals surveyed is under 30, 
 Skills Demonstrated:
 Power BI - Power Query · Data Cleaning - Data Transformation - DAX Measures - KPI Design - Interactive Dashboards - Data Visualization - Treemaps - Gauge Charts - Donut Charts - Bar Charts - Analytical Thinking
 
+PowerBI dashboard.webp
+A single-page interactive dashboard designed with strategic visual flow — starting with demographics (country treemap, survey count), moving through compensation and skills analysis (salary by role, programming languages), and ending with satisfaction metrics (work/life balance and salary gauges)
+
+Design highlights:
+Teal and earth-tone color palette for professional, approachable visualization
+Cross-filtering enabled — click any chart element to dynamically update all visuals
+Left-to-right narrative flow guides viewers from "who" (demographics) → "what" (compensation/skills) → "how satisfied" (gauges)
+Strategic chart selection — treemaps for geographic distribution, stacked bars for salary comparison, donut chart for difficulty perception, and ranges for satisfaction scores on a 0-10 scale
+
+The layout balances analytical depth with visual simplicity, making complex survey data digestible in under 30 seconds while supporting deeper exploration through interactivity.
+
 
 
